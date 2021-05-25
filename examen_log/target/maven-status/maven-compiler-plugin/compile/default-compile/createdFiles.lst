@@ -1,0 +1,8 @@
+com\prueba\inicializer\ConfigSeguridadSpring.class
+com\prueba\dao\GenericoDAO.class
+com\prueba\controllers\LoginController.class
+com\prueba\dao\GenericoDAOImpl.class
+com\prueba\entities\Usuarios.class
+com\prueba\inicializer\ConfiguracionSpring.class
+com\prueba\inicializer\IniciarSpring.class
+com\prueba\services\GenericoServices.class
